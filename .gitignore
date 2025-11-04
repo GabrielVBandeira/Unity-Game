@@ -13,8 +13,6 @@
 /[Uu]ser[Ss]ettings/
 
 # User-specific files
-*.csproj
-*.sln
 *.rsuser
 *.suo
 *.user
